@@ -13,8 +13,8 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "nakashima-masaya"
-          # ICON_FIRST: "#3657a6"
-          # ICON_SECOND: "#00aaff"
-          # BACKGROUND_FIRST: "#020e27"
-          # BACKGROUND_SECOND: "#0e5593"
-          # LANG: "en"
+          ICON_FIRST: "#3657a6"
+          ICON_SECOND: "#00aaff"
+          BACKGROUND_FIRST: "#020e27"
+          BACKGROUND_SECOND: "#0e5593"
+          LANG: "en"
