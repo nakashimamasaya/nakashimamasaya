@@ -12,6 +12,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main'
-        with: 
-            CREDLY_USER: masaya-nakashima
-            CREDLY_SORT: recent
