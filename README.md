@@ -36,7 +36,7 @@ Last Updated on 12/28/2023, 7:28:55 AM</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakashimamasaya)](https://github.com/ryo-ma/github-profile-trophy)
 
-# My Badge
+# My Badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
