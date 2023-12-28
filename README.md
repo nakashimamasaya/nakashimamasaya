@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakashimamasaya)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakashimamasaya)](https://github.com/ryo-ma/github-profile-trophy)
