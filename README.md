@@ -29,7 +29,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/nakashima-masaya" target="_blank" rel="noopener noreferrer"><img alt="nakashima-masaya's scores on LAPRAS are as follows: Engineering: 3.66 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.17 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.43&i=3.17&b1=%23020e27&b2=%230e5593&i1=%233657a6&i2=%2300aaff&l=en" width="400" ></a>  
-Last Updated on 12/30/2023, 1:07:00 AM</p>
+Last Updated on 12/31/2023, 1:13:49 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakashimamasaya)](https://github.com/anuraghazra/github-readme-stats)
