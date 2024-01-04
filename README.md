@@ -36,7 +36,7 @@ Last Updated on 1/4/2024, 1:09:44 AM</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakashimamasaya)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Latest Posts
+# Qiita Latest Posts
 <!-- feed start -->
 <!-- feed end -->
 
