@@ -15,3 +15,4 @@ jobs:
         with:
           url: 'https://qiita.com/kawa18/feed'
           file: 'README.md'
+      - uses: sarisia/actions-commit@master
