@@ -1,4 +1,4 @@
-name: qiita feed gate
+name: qiita feed
 
 on:
   workflow_dispatch:
