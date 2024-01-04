@@ -36,6 +36,10 @@ Last Updated on 1/4/2024, 1:09:44 AM</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakashimamasaya)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
+
 # My Badges
 <!--START_SECTION:badges-->
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/ec9836e1-5814-4a5f-ad28-df297c12175b "AWS Certified Developer – Associate")
