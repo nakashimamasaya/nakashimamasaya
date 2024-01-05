@@ -15,4 +15,5 @@ jobs:
         with:
           url: 'https://qiita.com/kawa18/feed'
           file: 'README.md'
+          format: '${monthshort} ${02day} -- [${title}](${url})'
       - uses: sarisia/actions-commit@master
