@@ -28,9 +28,9 @@ Last Updated on 1/6/2024, 1:09:02 AM</p>
 
 # Qiita Latest Posts
 <!-- feed start -->
-- 2023 1 31 - [AWS RDS とAWS Secrets Managerの統合が発表があったため利用してみた](https://qiita.com/kawa18/items/c952cd8d59ed824f4b99)
-- 2017 12 04 - [LINE Beaconを使ってみた](https://qiita.com/kawa18/items/182ef0a3b713efd330d1)
-- 2017 7 09 - [Vagrant + VirtualBox + CentOS7 で rails s するまで](https://qiita.com/kawa18/items/1ffe398490242d89cf6b)
+- 31 Jan 2023 - [AWS RDS とAWS Secrets Managerの統合が発表があったため利用してみた](https://qiita.com/kawa18/items/c952cd8d59ed824f4b99)
+- 04 Dec 2017 - [LINE Beaconを使ってみた](https://qiita.com/kawa18/items/182ef0a3b713efd330d1)
+- 09 Jul 2017 - [Vagrant + VirtualBox + CentOS7 で rails s するまで](https://qiita.com/kawa18/items/1ffe398490242d89cf6b)
 <!-- feed end -->
 
 # My Badges
