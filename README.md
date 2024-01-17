@@ -42,3 +42,5 @@ Last Updated on 1/17/2024, 1:11:50 AM</p>
 [![AWS Certified Database – Specialty](https://images.credly.com/size/110x110/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)](http://www.credly.com/badges/fe3e5bfa-0f9f-4e83-a749-32436f90ec32 "AWS Certified Database – Specialty")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b2258a15-c60a-4c94-a7fe-2428f967e35d "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/eb30970f-8b3d-4724-872a-d76cfd67d163 "AWS Certified Solutions Architect – Associate")
+
+<!--END_SECTION:badges-->
