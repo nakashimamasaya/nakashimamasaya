@@ -35,6 +35,8 @@ Last Updated on 4/8/2024, 1:08:29 AM</p>
 
 # My Badges
 <!--START_SECTION:badges-->
+[![Professional Cloud Architect (日本語)](https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/6354cf54-0c5a-42d4-9eb3-0902bac367d4 "Professional Cloud Architect (日本語)")
+[![Associate Cloud Engineer (日本語)](https://images.credly.com/size/110x110/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](http://www.credly.com/badges/b500b998-3b93-42fd-951b-39cae927baba "Associate Cloud Engineer (日本語)")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/264e69e3-3160-482d-b1d1-4d90e9c128db "AWS Certified DevOps Engineer – Professional")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/08478a6b-92bf-4b31-bea8-1b6ca361d6fa "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/f3c16f09-ad54-4d5a-b1b7-48316d14cd61 "AWS Certified Solutions Architect – Professional")
