@@ -23,7 +23,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/nakashima-masaya" target="_blank" rel="noopener noreferrer"><img alt="nakashima-masaya's scores on LAPRAS are as follows: Engineering: 3.66 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.12 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.43&i=3.12&b1=%23020e27&b2=%230e5593&i1=%233657a6&i2=%2300aaff&l=en" width="400" ></a>  
-Last Updated on 3/21/2025, 1:41:12 AM</p>
+Last Updated on 3/22/2025, 1:38:42 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # Qiita Latest Posts
