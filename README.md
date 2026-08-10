@@ -37,10 +37,10 @@ Last Updated on 8/9/2026, 1:56:33 AM</p>
 <!--START_SECTION:badges-->
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/264e69e3-3160-482d-b1d1-4d90e9c128db)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/08478a6b-92bf-4b31-bea8-1b6ca361d6fa)
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/f3c16f09-ad54-4d5a-b1b7-48316d14cd61)
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/7d83fc3f-14dd-46b0-b5b8-85f68b75ddcb)
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/25ab7621-92bd-4ab7-a9bd-8cc798c6cbae)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7cd6a172-cd3a-44b9-8867-324d50eae911)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/eb30970f-8b3d-4724-872a-d76cfd67d163)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e4bb1da7-b2cb-4748-846f-38e8839886d1)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/ec3f08be-77e5-41ba-8d76-d7283bd3b72d)
 [![AWS Certified Security – Specialty](https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](https://www.credly.com/badges/b1bb8360-3819-4380-a241-c1d3b38db6d2)
 [![AWS Certified Database – Specialty](https://images.credly.com/size/80x80/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)](https://www.credly.com/badges/fe3e5bfa-0f9f-4e83-a749-32436f90ec32)
 [![Associate Cloud Engineer](https://images.credly.com/size/80x80/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png)](https://www.credly.com/badges/fb69d68e-5a12-4579-b9e3-5ea49c3f01e9)
